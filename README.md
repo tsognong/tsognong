@@ -2,7 +2,7 @@
 
 **Software Engineer & Security Enthusiast** focused on:
 
-- Open‑source platforms: **Moodle**, **Odoo**, **Keycloak**, **Wazuh**, **ModSecurity**
+- Open‑source platforms: **Keycloak**, **Wazuh**, **ModSecurity**, **Moodle**, **Odoo**
 - **Identity & Access Management (IAM)** and **Continuous SSO (CSSO)**
 - **Observability / SIEM** for identity and application systems
 

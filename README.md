@@ -1,6 +1,6 @@
 # Hi, I'm Fidèle Tsognong 👋
 
-**DevOps & Application Security Specialist** with 7 years building secure, scalable systems. I specialize in **IAM**, **SIEM integration**, and **WAF** for education and enterprise platforms at [educosmic.tech](https://educosmic.tech).
+**DevOps & Application Security Specialist** with about 7 years building secure, scalable systems. I specialize in **IAM**, **SIEM integration**, and **WAF** for education and enterprise platforms at [educosmic.tech](https://educosmic.tech).
 
 ---
 

@@ -26,10 +26,15 @@ Golang + React app with policy-driven automation, integrity verification, and en
 Custom SIEM integration for Keycloak/Shibboleth/Moodle with real-time anomaly detection.
 
 ### **Enterprise Platform Expertise**
-Deploying and customizing **Keycloak** • **Wazuh** • **ModSecurity** • **Moodle** • **Odoo** for production environments.
+Deploying and customizing **Keycloak**, **Wazuh**, **ModSecurity**, **Moodle**, and **Odoo** for production environments.
 
 ---
 
 ## 📚 Research
+I focus on cybersecurity, with a special emphasis on access control optimization and continuous authentication. My research publications cover Organization-Based Access Control (ORBAC), correct-by-construction access control, and big data security — available at [tsognong.me](https://tsognong.me).
 
-Focused on access control optimization and continuous authentication. Publications on Organization-Based Access Control (ORBAC), correct-by-construction access control, and big data security at [tsognong.me](https://tsognong.me).
+## 🏗️ Current Project
+I am actively developing a security-focused higher-education platform to improve visibility, social broker, and digital workspace for academic institutions — available at [educosmic.tech](https://educosmic.tech).
+
+## ✍️ Security Writing
+I am also passionate about writing on cybersecurity topics, sharing insights and tutorials at [Medium](https://medium.com/@tsognong.fidele).

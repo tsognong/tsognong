@@ -14,7 +14,7 @@ I build secure, observable systems at [educosmic.tech](https://educosmic.tech) a
 - **Scripting:** Bash, PowerShell, Python
 
 ### Security & IAM
-- **Identity & Access Management:** Keycloak, OAuth 2.0, OIDC, SAML, SCIM, SSO, JWT, MFA
+- **Identity & Access Management:** Keycloak, OAuth 2.0, OIDC, SAML, SSO, JWT, MFA
 - **Access Control Models:** RBAC, ABAC, ORBAC, Open Policy Agent (OPA)
 - **Web Application Firewall:** ModSecurity, OWASP CRS, OWASP Top 10
 - **SIEM & Monitoring:** Wazuh SIEM & XDR, ELK Stack, Elasticsearch, Beats

@@ -10,7 +10,7 @@
 **Backend:** Java (Spring Boot/Security) • Golang • Node.js • Python  
 **Frontend:** React • Angular • TypeScript  
 **DevOps:** Docker • GitHub Actions • Jenkins • Ansible  
-**Cloud & Data:** Azure • PostgreSQL • MongoDB • Redis • Elasticsearch • S3
+**Cloud & Data:** Azure • PostgreSQL • MongoDB • Redis • Elasticsearch • AWS S3
 
 ---
 

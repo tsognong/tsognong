@@ -19,7 +19,7 @@
 ### **[CSSO IAM Platform](https://demo.csso-iam.com)** – Continuous SSO for Microservices
 Enterprise IAM with risk-aware sessions, adaptive MFA, device fingerprinting, and comprehensive audit trails.
 
-### **Backup & Integrity Platform**
+### **[Backup & Integrity Platform](https://github.com/csso-iam/proctor-backup)**
 Golang + React app with policy-driven automation, integrity verification, and encrypted multi-cloud backups.
 
 ### **Identity Log Observability with Wazuh**

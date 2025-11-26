@@ -25,6 +25,9 @@ Golang + React app with policy-driven automation, integrity verification, and en
 ### **Identity Log Observability with Wazuh**
 Custom SIEM integration for Keycloak/Shibboleth/Moodle with real-time anomaly detection.
 
+### **[Acro Form PDF Auditor](https://github.com/tsognong/acroFormPDFAuditor)**
+Lightweight web-based Single-Page Application (SPA) built with React on the frontend and Golang on the backend. It allows inspecting, organizing, and validating AcroForm PDF fields with custom naming conventions — no database required and completely free to use.
+
 ### **Enterprise Platform Expertise**
 Deploying and customizing **Keycloak**, **Wazuh**, **ModSecurity**, **Moodle**, and **Odoo** for production environments.
 

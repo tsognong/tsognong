@@ -37,7 +37,7 @@ Deploying and customizing **Keycloak**, **Wazuh**, **ModSecurity**, **Moodle**, 
 I focus on cybersecurity, with a special emphasis on access control optimization and continuous authentication. My research publications cover Organization-Based Access Control (ORBAC), correct-by-construction access control, and big data security — available at [tsognong.me](https://tsognong.me).
 
 ## 🏗️ Current Project
-I am actively developing a security-focused higher-education platform to improve visibility, social broker, and digital workspace for academic institutions — available at [educosmic.tech](https://educosmic.tech).
+I am actively developing a security-focused higher-education platform to improve visibility, social broker, and digital workspace for academic institutions — available at [educosmic.tech](https://www.educosmic.tech).
 
 ## ✍️ Security Writing
 I am also passionate about writing on cybersecurity topics, sharing insights and tutorials at [Medium](https://medium.com/@tsognong.fidele).

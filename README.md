@@ -13,31 +13,33 @@
 **Cloud & Data:** Azure • PostgreSQL • MongoDB • Redis • Elasticsearch • AWS S3
 
 ---
+## 🏗️ Featured Projects
 
-## 🏗 Featured Projects
+### **[Humifortis](https://humifortis.educosmic.tech)** – Deterministic & Explainable Risk Engine
+A minimal, incremental, and fully explainable real-time risk engine for security decision-making across IAM, applications, and infrastructure (Continuous, Explainable Risk Assessment – CERA).
 
 ### **[CSSO IAM Platform](https://demo.csso-iam.com)** – Continuous SSO for Microservices
 Enterprise IAM with risk-aware sessions, adaptive MFA, device fingerprinting, and comprehensive audit trails.
 
-### **[Backup & Integrity Platform](https://github.com/csso-iam/proctor-backup)**
-Golang + React app with policy-driven automation, integrity verification, and encrypted multi-cloud backups.
-
 ### **Identity Log Observability with Wazuh**
-Custom SIEM integration for Keycloak/Shibboleth/Moodle with real-time anomaly detection.
+Custom SIEM integration for Keycloak, Shibboleth, and Moodle with real-time anomaly detection and security signal correlation.
+
+### **[Backup & Integrity Platform](https://github.com/csso-iam/proctor-backup)**
+Golang + React application with policy-driven automation, integrity verification, and encrypted multi-cloud backups.
 
 ### **[Acro Form PDF Auditor](https://github.com/tsognong/acroFormPDFAuditor)**
-Lightweight web-based Single-Page Application (SPA) built with React on the frontend and Golang on the backend. It allows inspecting, organizing, and validating AcroForm PDF fields with custom naming conventions — no database required and completely free to use.
+Lightweight web-based SPA (React + Golang) for inspecting, organizing, and validating AcroForm PDF fields using custom naming conventions — no database required and free to use.
 
 ### **Enterprise Platform Expertise**
-Deploying and customizing **Keycloak**, **Wazuh**, **ModSecurity**, **Moodle**, and **Odoo** for production environments.
+Deploying and customizing **Keycloak**, **Wazuh**, **ModSecurity**, **Moodle**, and **Odoo** in production environments.
 
 ---
 
 ## 📚 Research
 I focus on cybersecurity, with a special emphasis on access control optimization and continuous authentication. My research publications cover Organization-Based Access Control (ORBAC), correct-by-construction access control, and big data security — available at [tsognong.me](https://tsognong.me).
 
-## 🏗️ Current Project
-I am actively developing a security-focused higher-education platform to improve visibility, social broker, and digital workspace for academic institutions — available at [educosmic.tech](https://www.educosmic.tech).
+## 🏗️ Current Project  
+I am actively developing **Humifortis**, a deterministic and explainable real-time risk engine for security decision-making across IAM, applications, and infrastructure — available at [humifortis.educosmic.tech](https://humifortis.educosmic.tech).
 
 ## ✍️ Security Writing
 I am also passionate about writing on cybersecurity topics, sharing insights and tutorials at [Medium](https://medium.com/@tsognong.fidele).

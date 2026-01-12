@@ -1,6 +1,6 @@
 # Hi, I'm Fidèle Tsognong 👋
 
-**DevOps & Application Security Specialist** with about 7 years building secure, scalable systems. I specialize in **IAM**, **SIEM integration**, and **WAF** for education and enterprise platforms.
+DevOps Engineer with solid experience designing and building scalable, high-performance applications using ReactJS, Angular, Spring Boot, Golang, NodeJS, and RESTful web services. Skilled in CI/CD pipelines, cloud deployments, end-to-end testing, and API integration, with additional expertise in authentication, authorization, IAM, and SIEM integration. Proven track record of improving application reliability, performance, and security in Agile environments.
 
 ---
 
